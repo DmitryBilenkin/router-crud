@@ -1,0 +1,18 @@
+.post_view__container{
+    position: relative;
+    flex-direction: column;
+    padding: 20px 30px;
+    box-sizing: border-box;
+}
+
+.post_view__content{
+    margin-bottom: 20px;
+    font-size: 25px;
+}
+
+.post_view__btns{
+    display: flex;
+    justify-content: flex-end;
+    gap: 10px;
+}
+

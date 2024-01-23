@@ -1,0 +1,17 @@
+.edit_post__container{
+    position: relative;
+
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.edit_post__textarea{
+    resize: none;
+    width: 500px;
+    min-height: 100px;
+
+    margin-bottom: 20px;
+    padding: 20px;
+    font-size: 23px;
+}
